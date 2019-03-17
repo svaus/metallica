@@ -21,6 +21,7 @@
     "restify-jwt-community": "^1.0.8"
   },
   "devDependencies": {
+    "event-stream": "^4.0.1",
     "nodemon": "^1.18.6"
   }
 }
